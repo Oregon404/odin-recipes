@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will build a basic website using HTML. Some of the skills that I have learned that prove useful in this project include setting up a basic HTML boilerplate, adding images and links to an HTML file, and using git commands such as add, commit and push.
