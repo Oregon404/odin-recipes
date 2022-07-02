@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+}
+
+h1{
+    display: flex;
+    color: purple;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.buttons {
+    display: flex;
+    background-color: rgba(128, 0, 170, 0.527);
+}
+
+.button {
+    justify-content: center;
+    color: white;
+    width: 38px;
+    margin: 8px;
+    background-color: rgba(128, 0, 128, 0.74);
+    padding: 8px;
+}
